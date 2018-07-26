@@ -1,0 +1,104 @@
+{
+    "map": [
+	"C",
+        "A",
+        "C",
+        "C",
+        "C",
+        "P",
+        "C",
+        "C",
+        "A",
+        "P",
+        "C",
+        "C",
+        "A",
+        "C",
+        "C",
+        "P",
+        "C",
+        "A",
+        "P",
+        "C",
+        "C",
+        "C",
+        "A",
+        "A",
+        "A",
+        "A"
+    ],
+    "setting_usr": [
+        {
+            "name": "grassLand_moe",
+            "introduction": "",
+            "story": "Moe comes to a large grassland. The wind is breezing and the climate is so pleasant. Moe meets with the prairie dog family, Mr Smith, Mrs Smith and their kid Allen. The Smith family is troubled because Allen watches too much TV and gets short-sighted. How can Moe help them?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "lakeSide_moe",
+            "introduction": "",
+            "story": "Moe comes to the lakeside. Birds are gliding over the lake and singing songs. Everything is so beautiful. Moe meets with the hippo Mr Hyper. Mr Hyper is vexed because he is over-weighted and cannot wear suits to attend the wedding of his friend. How can Moe help him?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "barn_moe",
+            "introduction": "",
+            "story": "Moe comes to a barn. It is the harvesting season and everyone is so busy. Moe meets with a farmer Bauer. Bauer cannot sleep well at night because a naughty mouse is always trying to steal his food. How can Moe help Bauer?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "night_moe",
+            "introduction": "",
+            "story": "Moe is walking in the forest when the sun slowly goes down. Night has come and it gets so dark. Suddenly, a wolf jumps out and shows Moe his sharp teeth. Moe is so scared. What will happen next?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "desert_moe",
+            "introduction": "",
+            "story": "Moe is crossing the desert. It is so hot and Moe feels so thirsty. Suddenly, Moe sees a large spaceship. An alien with four eyes and six legs comes out. She says her name is Bobo. She is trapped here because her spaceship runs out of fuel. She really wants to go back home. How can Moe help her?",
+            "punishment": 1,
+            "reward": 2
+        }
+    ],
+    "setting_sys": [
+        {
+            "name": "grassLand_mew",
+            "introduction": "",
+            "story": "Mew comes to a large grassland. Tens of thousands of sheep live there peacefully. Mew notices a special sheep. The sheep is a robot like himself. What will the robot sheep say to Mew?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "lakeSide_mew",
+            "introduction": "",
+            "story": "Mew comes to the lakeside. An old submarine emerges from the water. The submarine tells Mew that he used to fight in the World War Two but now he has long been retired. What will Mew and the submarine talk to each other?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "barn_mew",
+            "introduction": "",
+            "story": "Mew comes to a farm and meets Tom. Tom is a farmer who is very busy in this harvesting season. Tom tells Mew that he is working hard so he can earn enough money to buy his family gifts when Christmas comes. What conversation will Mew have with Tom?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "night_mew",
+            "introduction": "",
+            "story": "Mew is a robot so he is not afraid of walking alone at night. Out of a sudden, a wolf jumps out, showing teeth and threatens Mew, I will eat you. What will happen next?",
+            "punishment": 1,
+            "reward": 2
+        },
+        {
+            "name": "desert_mew",
+            "introduction": "",
+            "story": "Mew is crossing the desert. It is so hot but luckily Mew is a robot so he does not need to drink water. Suddenly, Mew sees a camel. The camel says to Mew, help me please. I am so thirsy. How can Mew help the camel?",
+            "punishment": 1,
+            "reward": 2
+        }
+    ]
+}

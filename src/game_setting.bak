@@ -1,0 +1,44 @@
+#!/usr/bin/env python
+
+import rospy
+import smach
+import smach_ros
+from std_msgs.msg import Int32
+
+class GameSetting:
+    # Class to define the game setting
+
+    def __init__(self):
+        self.map = [] # JSON
+        self.settings = [] # JSON
+        self.visited = 0 # Story settings that users have already encountered
+
+    def getCurrentState(self, position):
+        # Get current state for the user (challenge, punishment, prize)
+
+        return self.map[position]
+
+    def generate(self, state, user_pos, user_cards):
+        # Take the state (challenge, punishment, prize) and generates an instance
+
+        if state == 'C': # challenge
+            self.visited += 1
+            return self.settings[self.visited - 1]
+
+        elif state == 'P': # punishment
+            if (user_pos > 3):
+                return 1
+            else:
+                if (user_cards < 3):
+                    return 0
+                else:
+                    return 1
+
+        elif state == 'A': # prize
+            if (user_cards > 1):
+                return 0
+            else:
+                return 1
+
+        else:
+            pass # ERROR CASE

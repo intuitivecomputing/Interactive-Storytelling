@@ -1,0 +1,4 @@
+sound_play/scripts/soundplay_node select_sound CHANGE
+robot_controller: 
+	goal_CONTROLLER_SPEAKER_callback(userdata,default_goal) 
+		userdata.CONTROLLER_SPEAKER_input is the file name of input, in storyAudio folder

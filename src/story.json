@@ -1,0 +1,110 @@
+{
+	"storyFile": {
+		"grassLand_mew": {
+			"" : "grassLand_mew_camera",
+			"camera" : "grassLand_mew_camera",
+			"glasses": "grassLand_mew_glasses",
+			"guitar" : "grassLand_mew_guitar",
+			"helicopter" : "grassLand_mew_helicopter",
+			"phone" : "grassLand_mew_phone",
+			"axe" : "grassLand_mew_axe"
+		},
+		"lakeSide_mew": {
+			"" : "lakeSide_mew_camera",
+			"camera" : "lakeSide_mew_camera",
+			"glasses": "lakeSide_mew_glasses",
+			"guitar" : "lakeSide_mew_guitar",
+			"helicopter" : "lakeSide_mew_helicopter",
+			"phone" : "lakeSide_mew_phone",
+			"axe" : "lakeSide_mew_axe"
+		},
+		"barn_mew": {
+			"" : "barn_mew_camera",
+			"camera" : "barn_mew_camera",
+			"glasses": "barn_mew_glasses",
+			"guitar" : "barn_mew_guitar",
+			"helicopter" : "barn_mew_helicopter",
+			"phone" : "barn_mew_phone",
+			"axe" : "barn_mew_axe"
+		},
+		"night_mew": {
+			"" : "night_mew_camera",
+			"camera" : "night_mew_camera",
+			"glasses": "night_mew_glasses",
+			"guitar" : "night_mew_guitar",
+			"helicopter" : "night_mew_helicopter",
+			"phone" : "night_mew_phone",
+			"axe" : "night_mew_axe"
+		},
+		"desert_mew": {
+			"" : "desert_mew_camera",
+			"camera" : "desert_mew_camera",
+			"glasses": "desert_mew_glasses",
+			"guitar" : "desert_mew_guitar",
+			"helicopter" : "desert_mew_helicopter",
+			"phone" : "desert_mew_phone",
+			"axe" : "desert_mew_axe"
+		}
+	},
+	"stories": {
+		"grassLand_mew_camera" : "The robot sheep says her name is Dolly. She was a made in a lab. She sneaked out of the lab and came to the grassland because she wants to see where real sheep live. Now her battery is running low and she has no choice but to go back to her lab. Dolly looks around and tells Mew she will surely miss here because everything is here calm and beautiful. Mew says it is okay and gives Dolly a camera. Mew tells Dolly she can take photos of the grassland and bring them back with her. Dolly thinks it a good idea and thanks Mew.",
+
+		"grassLand_mew_glasses" : "The robot sheep says her name is Dolly. She was a made in a lab. But the engineer who designed her made a mistake so she cannot recognize colors. She can only see the world in black and white. She comes here because she wants to see where real sheep live. But she cannot see the grassland as it truely looks. Mew feels sorry for Dolly and decides to help Dolly. Mew has good engineering skills so he designs a special pair of glasses. He gives the glasses to Dolly and Dolly can see colors through the glasses. DOlly tells Mew the world is as beautiful as everyone else has described and she is truely happy.",
+
+		"grassLand_mew_guitar" : "The robot sheep says her name is Dolly. She was a made in a lab. She came to the grassland because she was trying to follow a beautiful melody, which led her here. But when she came here the music stopped. The mysterious musician was gone and left his guitar behind. Dolly is very sad and asks Mew if he can play the guitar for her. Mew is happy to do so and plays Twinkle, Twinkle, Little Star for Dolly. Dolly dances to the music. Mew then teaches Dolly how to play the song. Dolly says now she can enjoy the music whenever she wants.",
+
+		"grassLand_mew_helicopter" : "The robot sheep says her name is Dolly. She was a made in a lab. She sneaked out of the lab and came to the grassland because she wants to see where real sheep live. Now the engineers in the lab want her back. A helicopter is hovering over the sky. It is searchin for Dolly. Dolly does not want to go back. She likes to play with other animals here. Mew has an idea to hide Dolly from the engineers. He asks help from the priaire dog, Smith family. The Smith family is more than happy to help Dolly. They dig a large hole and hide Dolly inside. Now Dolly does not have to go back to the boring lab.",
+
+		"grassLand_mew_phone" : "The robot sheep says her name is Dolly. She was a made in a lab. She sneaked out of the lab and came to the grassland because she wants to see where real sheep live. Now her battery is running low and she has no choice but to go back to her lab. But she really wants to stay because it is so beautiful here. Mew decides to help Dolly. He takes out a phone and drags the battery out. Dolly says a single battery cannot help because it will soon run out. Mew tells Dolly the phone has a special battery which can be recharged by solar power. Now Dolly does not have to go back and can stay happily here.",
+
+		"grassLand_mew_axe"	: "The robot sheep says her name is Dolly. She was a made in a lab. She sneaked out of the lab and came to the grassland because she wants to see where real sheep live. After seeing how the real sheep live, Dolly realized that the difference between her and the real sheep is that she does not have a soul. Dolly feels hollow inside. The eldest sheep in the herd told Dolly that her soul is trapped inside the cold metal body, the only way to be free is to abandon this body. Dolly thought over it thoroughly and made a decision. She asks Mew to break her body with the Axe. Mew refuses to do it. You will disappear, Mew says. Dolly says it is OK, you will find my soul playing happily with the other sheep.",
+
+		"lakeSide_mew_camera" : "The submarine tells Mew that he fought bravely during the war, driving the enemies away and protecing the country. Those were glorious ages. But now he has long been retired, having a quiet and peaceful retirement life. However, he recently feels retirement does not suit him as he has been used to challenges and adventures. The submarine shows Mew his new camera and announces his plan of travelling around the world, seeing new things, meeting new people and taking photos. Mew pays his respect to the submarine and wishes him a good journey. ",
+
+		"lakeSide_mew_glasses" : "The submarine tells Mew that he fought bravely during the war, driving the enemies away and protecing the country. Then the submarine invites Mew inside to see around. Mew enters the command room and notices a pair of glasses on the table. The submarine tells Mew that the glasses belonged to a respectable general who used to command the submarine. With his command, they had many glorious victories. The general passed away a few years ago. The submarine asks Mew a favour to visit the grave of the general on his behalf when he has a chance. Mew agrees and pays his respect.",
+
+		"lakeSide_mew_guitar" : "The submarine tells Mew how he fought bravely during the war. Then the submarine invites Mew inside to see around. While the submarine was sharing the stories of the past, Mew notices an old guitar in the corner. The submarine tells Mew that the guitar belonged to a young soldier who wished to be a musician when the war ended. Sadly, the soldier never had the chance as he sacrificed his life protecting his country during a battle. Mew pays his respect and promises the submarine to visit the grave of the soldier someday.",
+
+		"lakeSide_mew_helicopter" : "The submarine tells Mew how he fought bravely during the war, driving the enemies away and protecing the country. Those were glorious ages. The submarine also mentioned his old friend, helicopter. He used to fight the enemies under the water and the helicopter used to fight the enemies over the sky. Both of them were awarded as heroes after the war. Now both of them have been retired, enjoying peaceful retirement lives. Though it is sometimes a bit boring for them, they are still proud to see that there are new submarines and helicopters guarding the country.",
+
+		"lakeSide_mew_phone" : "The submarine tells Mew that he fought bravely during the war, driving the enemies away and protecing the country. Those were glorious ages. But now he has long been retired, having a quiet and peaceful retirement life. However, the retirement life makes the submarine feel bored and lonely sometimes. Mew has an idea. He takes out a phone and takes a video of the submarine and uploads the video to YouTube. Now people from all over the world will come to visit the submarine and hear his stories of the past.",
+
+		"lakeSide_mew_axe" : "The submarine tells Mew that he fought bravely during the war, driving the enemies away and protecing the country. Those were glorious ages. But now he has long been retired, having a quiet and peaceful retirement life. However, the retirement life makes the submarine feel bored and lonely sometimes. The submarine makes a decision. He asks Mew to use the axe to disassemble him and take his components to a nearby factory. People in the factory will make him into some new machine so he will be useful to his country again. Mew pays his respect to the submarine and helps him.",
+
+		"barn_mew_camera" : "Tom tells Mew that he has a beautiful wife Rose and a lovely young boy Charlie. Rose is gaining ages and her beauty cannot be preserved forever. Charlie is growing very quickly and he will soon be a teenager instead of a kid. Tom wants to keep the youth and beauty of Rose and the childhood of Charlie. So he wants to save money and buy a camera at Christmas so he can record every moment of his wife and son. Mew thinks Tom a kind man as he cares so much about his family. So Mew helps Tom with his farm work.",
+
+		"barn_mew_glasses" : "Tom tells Mew that he has a beautiful wife Rose and a lovely young boy Charlie. He wants to buy them Christmans gifts. Charlie wants a toy racing car. Rose wants a new dining table to replace the old one. As a result, he is working hard to save money so he can realize the wishes of his family when Christmas comes. Mew asks Tom what he wants for himself at Christmas. Tom thinks about it for a while and tells Mew he wants a pair of glasses so he can read books more easily in his spare time. Mew is moved as he sees how much Tom cares for his family and helps Tom with the farm work.",
+
+		"barn_mew_guitar" : "Tom tells Mew that he has a beautiful wife Rose and a lovely young boy Charlie. He wants to buy them Christmans gifts. Charlie wants a toy racing car. Rose wants a new guitar. Tom tells Mew how Rose likes to play the guitar when she was young and how charming she looked when she was singing and playing. He bought Rose a guitar as a wedding gift but now that guitar is very old and not well-tuned. Tom imagines how excited Rose will be when he brings home a new guitar at Christmas. Mew thinks Tom a kind man as he cares so much about his family. So Mew helps Tom with his farm work.",
+
+		"barn_mew_helicopter" : "Tom tells Mew that he has a beautiful wife Rose and a lovely young boy Charlie. He wants to buy them Christmans gifts. Rose broke her leg when working last month and is now resting in bed. Tom is too busy on himself because his farm is large. Mew thinks about it and has an idea. He designs Tom a helicopter which can do automated farming work. Tom is very happy because this greatly increases working efficiency and now he can earn enough money to buy his family Christmas gifts.",
+
+		"barn_mew_phone" : "Tom tells Mew that he has a beautiful wife Rose and a young boy Charlie. Rose is a model who is now attending a fashion show in Paris. Charlie is now studying as an exchange student in China. Tom misses both of them and talks to them on phone everyday. They will be coming home for Christmas so now he is working hard to earn money so he can surprise them with amazing gifts when they come home. Mew thinks Tom a kind man as he cares so much about his family and helps Tom with his farm work.",
+
+		"barn_mew_axe" : "Tom tells Mew that he has a beautiful wife Rose and a lovely young boy Charlie. He wants to buy them Christmans gifts. Charlie wants a toy racing car. Rose wants a new dining table to replace the old one. As a result, he is working hard to save money so he can realize the wishes of his family when Christmas comes. Mew offers to help Tom. Tom gives Mew an axe to cut some trees down. Mew works for a whole day and Tom asks Mew to stay for dinner. Rose is an amazing cook and makes delicious food. Though Mew is a robot and does not eat, he still has an unforgettable evening with the farmer family.",
+
+		"night_mew_camera" : "Mew is not scared at all. He tells the wolf, I am a robot so you will break your teeth when trying to chew me. The wolf is so angry and says, fine, I will catch some other animal to eat. Mew takes out a camera and takes a photo of the wolf. I have taken a photo of you, Mew says, I will show the photo to everyone I see, I will warn them that there is a bad wolf hiding in the forest. Then everyone will be carrying weapons when passing through the forest and you cannot eat anyone. The wolf gets more angry but there is nothing he can do so he goes away, feeling defeated.",
+
+		"night_mew_glasses" : "Mew is not scared at all. He is a robot so he can run faster than the wolf and it is not difficult for him to escape. However, the biggest problem is that the wolf has a better vision than him in darkness. He cannot see things clearly but the wolf can. Mew thinks about it a little bit and takes out a pair of night-vision glasses. Now he can see everything as clear as in daylight. The wolf cannot catch Mew and goes away, angry and defeated.",
+
+		"night_mew_guitar" : "Mew is not scared at all. He tells the wolf, I am a robot so you will break your teeth when trying to chew me. The wolf laughs and tells Mew he is also a robot and can easily tear Mew apart. Mew points out that if the wolf is also a robot then he has no need to eat food. The wolf feels defeated and admits that he does not want to eat anyone. He just wants to threaten Mew because he is so bored all day long. Mew gives the wolf a guitar and teaches him to play Twinkle, Twinkle, Little Star. So now the wolf can play anyone who passes by some music instead of threatening them.",
+
+		"night_mew_helicopter" : "Mew is not scared at all. He tells the wolf, I am a robot so you will break your teeth when trying to chew me. The wolf laughs and tells Mew he is also a robot and can easily tear Mew apart. Now Mew begins to feel worried. He knows that a robot wolf can be stronger than him and there is no way to get away. Luckily, a helicopter passses by, Mew sends an emergency signal and the helicopter comes for rescue. People in the helicopter drives the wolf away and saves Mew.",
+
+		"night_mew_phone" : "Mew is not scared at all. He takes out a phone. Do not threaten me, Mew says, do you see this phone, I have a lot of friends who are stronger than you. If I make a phone call, they will come for rescue in one second. If you hurt me, my friends will never forgive you. The wolf thinks about it for a moment. You are only bluffing, the wolf says, you do not have friends who will come for rescue. Try me then, says Mew, I have made a lot of  friends during this journey. The wolf does not want to take risk and goes away.",
+
+		"night_mew_axe" : "Mew is not scared at all. He takes out an axe. Do not threaten me, Mew says, do you see this axe, I will fight back if you try to hurt me. I am a robot and I am as strong as you are. The wolf thinks about it for a moment. You are only bluffing, the wolf says, you are not brave enough to fight me. Try me then, says Mew, I have learned a lot and become very brave during this journey. The wolf does not want to take risk and goes away.",
+
+		"desert_mew_camera" : "Mew can see that the camel is dying of thirst. She must have travelled a long way without drinking anything, Mew thinks, I must help her. Mew knows that you can find water if you dig a hole deep enough in desert. So Mew starts digging as fast as he can. Finally, water emerges from underground. The camel drinks as much as she can and soon recovers. The camel tells Mew that her name is Lucy, she is crossing the desert because she wants to visit her sister who lives in the zoo. Lucy thanks Mew for saving her life. She takes out a camera and takes a photo of themselves. I will never forget you, Lucy says.",
+
+		"desert_mew_glasses" : "Mew can see that the camel is dying of thirst. She must have travelled a long way without drinking anything, Mew thinks, I must help her. Mew does not know where to find water. Luckily, Mew has a special pair of glasses which can help him see very far away. Mew puts on the glasses and sees an oasis. Mew leads the camel to the oasis and the camel drinks as much as she can and soon recovers. The camel tells Mew that her name is Lucy, she is crossing the desert because she wants to visit her sister who lives in the zoo. Lucy thanks Mew for saving her life. I will never forget you, Lucy says.",
+
+		"desert_mew_guitar" : "Mew can see that the camel is dying of thirst. She must have travelled a long way without drinking anything, Mew thinks, I must help her. Mew knows that you can find water if you dig a hole deep enough in desert. However, it takes time. The camel is so thirsty that she begins to panick. Mew knows he has to calm the camel down in case she loses more water. So Mew takes out a guitar and plays a song. The music makes the camel stronger. So Mew can focus on working. Finally, water emerges from underground. The camel drinks as much as she can and soon recovers. The camel tells Mew that her name is Lucy, she is crossing the desert because she wants to visit her sister who lives in the zoo. Lucy thanks Mew for saving her life. I will never forget you, Lucy says.",
+
+		"desert_mew_helicopter" : "Mew can see that the camel is dying of thirst. She must have travelled a long way without drinking anything, Mew thinks, I must help her. But water is so far away. But can Mew do? Mew designs a helicopter and builds as fast as he can. He drives the helicopter and fetches a large bottle of water. The camel drinks as much as she can and soon recovers. The camel tells Mew that her name is Lucy, she is crossing the desert because she wants to visit her sister who lives in the zoo. Lucy thanks Mew for saving her life. I will never forget you, Lucy says.",
+
+		"desert_mew_phone" : "Mew can see that the camel is dying of thirst. She must have travelled a long way without drinking anything, Mew thinks, I must help her. But water is so far away. But can Mew do? Mew takes out a phone and orders from the water factory a large bottle of water. Within a few minutes, the factory delivers the water to them. The camel drinks as much as she can and soon recovers. The camel tells Mew that her name is Lucy, she is crossing the desert because she wants to visit her sister who lives in the zoo. Lucy thanks Mew for saving her life. I will never forget you, Lucy says.",
+
+		"desert_mew_axe" : "Mew can see that the camel is dying of thirst. She must have travelled a long way without drinking anything, Mew thinks, I must help her. Mew knows there is water contained in cactus. So he takes out the axe and chop a cactus open and water starts flowing out. The camel drinks as much as she can and soon recovers. The camel tells Mew that her name is Lucy, she is crossing the desert because she wants to visit her sister who lives in the zoo. Lucy thanks Mew for saving her life. I will never forget you, Lucy says."
+    }
+}

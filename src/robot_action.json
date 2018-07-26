@@ -1,0 +1,157 @@
+ {
+    "nod": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "start_spin": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "audio3",
+        "face": false
+    },
+    "take_challenge": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "audio5",
+        "face": false
+    },
+    "story_finish": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "audio6",
+        "face": false
+    },
+    "stop_spin": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "audio4",
+        "face": false
+    },
+    "shake head": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "look at screen": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "track": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "blink": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "look at spin": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "story": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "look at card": {
+        "servo": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ], 
+        "speech": "",
+        "face": false
+    },
+    "speeches": {
+        "audio1": "Yes.",
+        "audio2": "Of course.",
+        "audio3": "Spin.",
+        "audio4": "Stop.",
+        "audio5": "I will take the challenge.",
+        "audio6": "Story finished.",
+        "audio7": "Yeah.",
+        "audio8": "Oh no."
+    }
+
+}
